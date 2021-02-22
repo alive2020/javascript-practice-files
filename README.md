@@ -1,7 +1,7 @@
 ### Javascript-practice-files based on - Udemy Course (by Brad Traversy)
 *Learned and built projects with pure JavaScript (No frameworks or libraries)
 
-##### What I accompished on this course:
+#### What I accompished on this course:
 
 - Basics & Fundamentals: Data types, let & const variables, functions, conditionals, loops, object literals, arrays, etc
 - DOM Manipulation: Selectors, traversing the DOM, show/hide, creating & removing elements, event listeners
